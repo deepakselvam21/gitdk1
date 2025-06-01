@@ -1,3 +1,0 @@
-This is text2.txt file.
-
-
